@@ -64,3 +64,25 @@ The model is evaluated using:
 
 ## Conclusion
 This project demonstrates how Machine Learning can be used to analyze customer behavior and predict customer churn.
+
+## Output Files
+- churn_predictions.csv - Actual and predicted customer churn results.
+- confusion_matrix.csv - Model evaluation results.
+
+## Results
+The Logistic Regression model was trained using customer information and evaluated using:
+- Accuracy Score
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+
+## Future Improvements
+- Use a larger real-world customer dataset.
+- Test additional machine learning algorithms.
+- Improve prediction performance.
+- Develop an interactive churn prediction dashboard.
+
+## Note
+This project uses a small sample dataset for educational purposes. Model results are illustrative and should not be treated as reliable real-world churn predictions.
+
